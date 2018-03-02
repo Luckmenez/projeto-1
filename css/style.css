@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: blue;
+    border: 1px solid;
+  
+}
+
+h1{
+    /* display: fixed; */
+    float: left;
+    size: 1,5em;
+}
+
+nav ul{
+    display: flex;
+    float: right;
+    
+
+}
+
+nav ul li  {
+    
+   background-color: white;
+   display: inline;
+   margin-left: 2px;
+}
+
+
+.navlogo{
+    height: 2em;
+    width: 2em;
+    
+}
+
